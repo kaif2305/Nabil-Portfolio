@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Container from 'react-bootstrap/Container';
 
 export default function About() {
-    const textArray = ["Kaif", "a Full Stack Devloper", "a UI/UX Designer", "Osama Bin L"];
+    const textArray = ["Nabil", "a Full Stack Devloper", "a UI/UX Designer", "Osama Bin L"];
     const typingDelay = 400;
     const erasingDelay = 100;
     const newTextDelay = 2000; // Delay between current and next text
@@ -91,17 +91,19 @@ export default function About() {
                 </div>
                 <div className="about-flex-right">
                     <div className="right-up-corner">
-                        <h5>KAIF</h5>
-                        <h5>KAI</h5>
-                        <h5>KA</h5>
-                        <h5>K</h5>
+                        <h5>NABIL</h5>
+                        <h5>NABI</h5>
+                        <h5>NAB</h5>
+                        <h5>NA</h5>
+                        <h5>N</h5>
                     </div>
-                    <img src="images/profile.png" alt="" />
+                    <img src="images/nabil.jpeg" alt="" />
                     <div className="left-down-corner">
-                        <h5>F</h5>
-                        <h5>IF</h5>
-                        <h5>AIF</h5>
-                        <h5>KAIF</h5>
+                        <h5>N</h5>
+                        <h5>NA</h5>
+                        <h5>NAB</h5>
+                        <h5>NABI</h5>
+                        <h5>NABIL</h5>
                     </div>
                 </div>
 

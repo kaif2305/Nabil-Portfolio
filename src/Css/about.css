@@ -102,7 +102,7 @@
 }
 
 .about-flex-right .right-up-corner {
-    margin: -13px 0px 0px -7px;
+    margin: -15px 0px 0px -9px;
     width: 15%;
 }
 
@@ -115,7 +115,7 @@
 }
 
 .about-flex-right .left-down-corner {
-    margin: 0px 0px -10px 15px;
+    margin: 0px 0px -15px 15px;
     text-align: end;
     position: absolute;
     width: 35%;
@@ -133,8 +133,8 @@
 }
 
 .about-flex-right img {
-    width: 35vh;
-    height: 50vh;
+    width: 38vh;
+    height: 51vh;
     float: right;
-    margin: 0px -15px 0px 0px;
+    margin: -17px -18px 0px 0px;
 }

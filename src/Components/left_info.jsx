@@ -9,7 +9,7 @@ export default function LeftInfo() {
 
             <div className="page-title">
 
-                <h4>Kaif</h4>
+                <h4>Nabil</h4>
                 <div className="title-back-container">
                 </div>
             </div>
