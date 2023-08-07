@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './Css/app.css'
 
 import Nav from './Components/nav'
 import LeftInfo from './Components/left_info'
@@ -13,8 +14,11 @@ function App() {
       <Nav />
       <LeftInfo />
       <About />
-      <Know_me />
-      <Footer />
+      <div style={{ display: 'block', marginLeft: 'auto', marginRight: 'auto', width: '80%' }}>
+        <Know_me />
+        <Footer />
+      </div>
+
     </>
   );
 }
